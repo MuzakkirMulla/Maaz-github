@@ -1,3 +1,6 @@
 hello world 
 this our basic website 
-we are an IT company 
+we are an IT company
+about us
+our services
+contact us
